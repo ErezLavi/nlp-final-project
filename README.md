@@ -7,9 +7,7 @@ In order to run the program and train the model yourself you are welcomed to:
 1. clone the repo:
 ```bash
 git clone https://github.com/ErezLavi/nlp-final-project.git
-'''bash
-2. Create and activate a virtual environment (recommended)
-``` 
+```
 2.  Set Up a Python Virtual Environment
 ```bash
 python3 -m venv venv
