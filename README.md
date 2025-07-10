@@ -17,6 +17,6 @@ source venv/bin/activate
 ```bash
 pip install -r requirements.txt
 ```
-Is it also possible to run it on a GPU with kaggle from that link:
+Is it also possible to run it on a GPU with kaggle from that link:<br>
 https://www.kaggle.com/code/erezlavi/sentiment-analysis-lstm-vs-bert?scriptVersionId=249486019
 <br>**Although it lacks some of the results explanations**
