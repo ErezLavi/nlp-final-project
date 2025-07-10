@@ -1,4 +1,4 @@
-# 🎬 Comparative Sentiment Analysis: LSTM vs Transformer on IMDB Movie Reviews
+# 🎬 Comparative Sentiment Analysis: LSTM vs BERT on IMDB Movie Reviews
 
 This project compares the performance of two NLP models — an **LSTM-based** and a **Transformer-based (BERT)** — on the **IMDB movie reviews sentiment dataset**.
 The main idea is checking how training order affect accuracy and f1 over time between different trainings.
@@ -17,5 +17,6 @@ source venv/bin/activate
 ```bash
 pip install -r requirements.txt
 ```
-Is it also possible to run it on a GPU with kaggle from that link: https://www.kaggle.com/code/erezlavi/sentiment-analysis-lstm-vs-bert?scriptVersionId=249486019
-**Although it lacks some of the results explanations**
+Is it also possible to run it on a GPU with kaggle from that link:
+https://www.kaggle.com/code/erezlavi/sentiment-analysis-lstm-vs-bert?scriptVersionId=249486019
+<br>**Although it lacks some of the results explanations**
